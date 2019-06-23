@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://wsdlservice20190617081427.azurewebsites.net/WebService1.asmx?wsdl" docRef="https://wsdlservice20190617081427.azurewebsites.net/WebService1.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://wsdlservice20190617081427.azurewebsites.net/WebService1.asmx" xmlns:q1="http://itcraftsman.pl/" binding="q1:WebService1Soap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://wsdlservice20190617081427.azurewebsites.net/WebService1.asmx" xmlns:q2="http://itcraftsman.pl/" binding="q2:WebService1Soap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
